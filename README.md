@@ -1,4 +1,4 @@
-- 👋 Hi, I’m JOnathan Sabiiti
+- 👋 Hi, I’m Jonathan Sabiiti
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning  AI/ML
 - 💞️ I’m looking to collaborate on open source project
